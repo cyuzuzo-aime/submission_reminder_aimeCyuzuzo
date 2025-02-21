@@ -2,7 +2,7 @@
 
 ## Installation
 
-#### Requirements
+### Requirements
 **1. A UNIX-based operating system or environment:** This includes all Linux distributions, MacOS, or a compatible environment like WSL or a virtual machine on Windows
 
 **2. Git:** This is required to be able to clone the repository to your local device
@@ -39,6 +39,8 @@ This will run the initialization process, create necessary files and folders ins
 ### II. After creating a user's folder (Running a user's custom project after initially running *./create_environment.sh*
 #### Navigate inside the user's newly created folder (formatted as `submission_reminder_{user's name}`).
 #### Run *./startup.sh*
+
+
 ## Data modification
 ** To modify data for a new user without affecting the global information, NAVIGATE INSIDE THE NEWLY CREATED FOLDER `submission_reminder_{user's name}` **
 #### Student's submissions and courses
