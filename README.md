@@ -15,7 +15,7 @@ This script file is the one that runs on the base level of a custom user's folde
 
 ## How to run the project
 
-### Initially (Right after cloning the repository)
+### I. Initially (Right after cloning the repository)
 #### 1. Clone the repository on your local device
 #### 2. Using the command line, navigate inside the root directory of the project
 This will be inside submission_reminder_app_cyuzuzo-aime, assuming that you didn't change the repository name
@@ -27,7 +27,7 @@ Running this script will start the process by asking you your name
 #### 4.  Write your name and press enter
 This will run the initialization process, create necessary files and folders inside a new custom user's folder called `submission_reminder_{user's name}`, and display the missing submissions
 
-### After creating a user's folder (Running a user's custom project after initially running *./create_environment.sh*
+### II. After creating a user's folder (Running a user's custom project after initially running *./create_environment.sh*
 #### Navigate inside the user's newly created folder (formatted as `submission_reminder_{user's name}`).
 #### Run *./startup.sh*
 ## Data modification
