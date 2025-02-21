@@ -4,7 +4,9 @@
 
 #### Requirements
 **1. A UNIX-based operating system or environment:** This includes all Linux distributions, MacOS, or a compatible environment like WSL or a virtual machine on Windows
+
 **2. Git:** This is required to be able to clone the repository to your local device
+
 **3. Bash shell or a shell that can run bash scripts:** Preferrably Bash to avoid unforeseen errors, but the other major shells in UNIX like zsh or fish can run bash scripts too
 
 ### Project setup
