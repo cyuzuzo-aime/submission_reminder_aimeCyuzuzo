@@ -1,15 +1,13 @@
 # PROJECT:  BASIC SUBMISSION REMINDER
 
-## Installation
-
-### Requirements
+### Installation requirements
 **1. A UNIX-based operating system or environment:** This includes all Linux distributions, MacOS, or a compatible environment like WSL or a virtual machine on Windows
 
 **2. Git:** This is required to be able to clone the repository to your local device
 
 **3. Bash shell or a shell that can run bash scripts:** Preferrably Bash to avoid unforeseen errors, but the other major shells in UNIX like zsh or fish can run bash scripts too
 
-### Project setup
+## Project setup
 This project is a bash script that allows you to check for the missing submissions of different students. It doesn't require additional dependencies and it comes with five initial files, all found in the base_files folder.
 ###### 1. create_environment.sh
 This is the base script that create the user's folder and adds the necessary files
@@ -22,7 +20,7 @@ This file contains necessary functions that the program runs to check the course
 ###### 5. reminder.sh
 This script file is the one that runs on the base level of a custom user's folder to get the return value from the functions.sh and display it to the user. This runs inside the custom user's folder, after the user has already run create_environment.sh.
 
-### Running the project
+## Running the project
 
 ### I. Initially (Right after cloning the repository)
 #### 1. Clone the repository on your local device
